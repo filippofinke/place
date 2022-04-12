@@ -1,6 +1,14 @@
 <h1 align="center">Welcome to place 👋</h1>
 > A simple r/place clone
 
+<details>
+ <summary>Demo</summary>
+ 
+ <p align="center">
+   <img src="https://user-images.githubusercontent.com/37296364/162973999-1ee4d620-1079-43c8-b2de-ab9fa3b08c34.gif" alt="Demo" />
+ </p>
+</details>
+
 ### 🏠 [Homepage](https://github.com/filippofinke/place#readme)
 
 ### ✨ [Demo](https://place.filippofinke.ch)

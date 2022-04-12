@@ -1,0 +1,25 @@
+{
+  "name": "place",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filippofinke/place.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filippofinke/place/issues"
+  },
+  "homepage": "https://github.com/filippofinke/place#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "express-ws": "^5.0.2"
+  }
+}

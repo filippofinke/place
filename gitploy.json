@@ -1,0 +1,5 @@
+{
+  "env": ["PORT=8080", "NODE_ENV=production"],
+  "commands": ["npm install", "npm run start"],
+  "port": 9998
+}
